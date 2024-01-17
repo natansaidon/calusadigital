@@ -5,3 +5,5 @@ theme: jekyll-theme-cayman
 plugins:
 - jekyll-feed
 
+github: is_project_page: false
+
